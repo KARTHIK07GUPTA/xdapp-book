@@ -1,5 +1,5 @@
 # The xDapp Book
-How to get started building cross chain applications with Wormhole
+How to get started building across chain applications with Wormhole
 
 ## Documentation
 
